@@ -1,17 +1,17 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome: Rodrigo Fernandes**  
+- **Número: 22603008**  
+- **Turma: A**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+Nenhuma 
 
 ---
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+lalalala
