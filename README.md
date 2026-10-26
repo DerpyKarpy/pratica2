@@ -136,5 +136,6 @@ Combina todos os conceitos:
 - Usa `git log --oneline --graph` para visualizar o histórico.
 - Mantém o repositório atualizado com `git pull`.
 - Fazer uma alteração
+- asdsadsad
 
 ---
